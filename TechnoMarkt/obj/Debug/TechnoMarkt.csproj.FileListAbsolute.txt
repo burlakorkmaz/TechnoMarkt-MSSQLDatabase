@@ -1,0 +1,11 @@
+C:\Users\MONSTER\Desktop\TechnoMarkt\TechnoMarkt\bin\Debug\TechnoMarkt.exe.config
+C:\Users\MONSTER\Desktop\TechnoMarkt\TechnoMarkt\bin\Debug\TechnoMarkt.exe
+C:\Users\MONSTER\Desktop\TechnoMarkt\TechnoMarkt\bin\Debug\TechnoMarkt.pdb
+C:\Users\MONSTER\Desktop\TechnoMarkt\TechnoMarkt\obj\Debug\TechnoMarkt.csprojAssemblyReference.cache
+C:\Users\MONSTER\Desktop\TechnoMarkt\TechnoMarkt\obj\Debug\TechnoMarkt.LoginWindow.resources
+C:\Users\MONSTER\Desktop\TechnoMarkt\TechnoMarkt\obj\Debug\TechnoMarkt.QueryWindow.resources
+C:\Users\MONSTER\Desktop\TechnoMarkt\TechnoMarkt\obj\Debug\TechnoMarkt.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\TechnoMarkt\TechnoMarkt\obj\Debug\TechnoMarkt.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\TechnoMarkt\TechnoMarkt\obj\Debug\TechnoMarkt.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\TechnoMarkt\TechnoMarkt\obj\Debug\TechnoMarkt.exe
+C:\Users\MONSTER\Desktop\TechnoMarkt\TechnoMarkt\obj\Debug\TechnoMarkt.pdb
